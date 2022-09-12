@@ -5,5 +5,8 @@
   "main": "./sass/f5.scss",
   "repository": "git@github.com:bhhaskin/f5.git",
   "author": "Bryan Haskin <bhhaskin@bitsofsimplicity.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@bhhaskin/f5-core": "^0.0.1"
+  }
 }

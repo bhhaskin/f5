@@ -1,0 +1,26 @@
+@use 'sass:map';
+@use '/node_modules/@bhhaskin/f5-core/sass/_vars.scss';
+
+$grid: vars.$grid !default;
+$typography: vars.$typography !default;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: map.get($grid, max-width);
+  margin: 0 auto;
+}
+
+html {
+  font-family:map.get($typography,  copy-font);
+  font-size: map.get($typography,  base-font-size);
+  letter-spacing: map.get($typography,  base-letter-spacing);
+}
+
+body {
+  font-size: map.get($typography,  copy-font-size);
+}
