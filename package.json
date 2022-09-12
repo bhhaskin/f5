@@ -1,0 +1,9 @@
+{
+  "name": "@bhhaskin/f5",
+  "version": "0.0.1",
+  "description": "An ultra light sass framework",
+  "main": "./sass/f5.scss",
+  "repository": "git@github.com:bhhaskin/f5.git",
+  "author": "Bryan Haskin <bhhaskin@bitsofsimplicity.com>",
+  "license": "MIT"
+}
