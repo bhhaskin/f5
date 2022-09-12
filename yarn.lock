@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@bhhaskin/f5-core@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@bhhaskin/f5-core/-/f5-core-0.0.1.tgz#03f6732ce82e84626bc0fbaefb6050e577cb6d1d"
-  integrity sha512-th8wsNdG1rGBqy5eCew7adoRW4hl31qRwdqIG8I84DPb58F3yuAHQHIKxtF/xFNM27ANtzb8fo2KfJNDSt5Uig==
+"@bhhaskin/f5-core@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@bhhaskin/f5-core/-/f5-core-0.1.0.tgz#41c32ff1c1d8a1c127f4633a5d5cb2dd4378ed70"
+  integrity sha512-QxRzUBNIi7XDoV2L49ZhsNAC92vG4li2GxZCWEAyHL6coJo18Nci32HP46jrxskf26B/c8c8R5RlKd6j+/M7yQ==

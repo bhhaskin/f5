@@ -7,6 +7,6 @@
   "author": "Bryan Haskin <bhhaskin@bitsofsimplicity.com>",
   "license": "MIT",
   "dependencies": {
-    "@bhhaskin/f5-core": "^0.0.1"
+    "@bhhaskin/f5-core": "0.1.0"
   }
 }
